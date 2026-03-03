@@ -1,2 +1,37 @@
-# github-setup-activitys
-My first GitHub activity repository 
+ # 📚 Student Attendance Monitor (Colab Testing Version)
+
+A simple web-based student attendance monitoring system built using Flask and tested in Google Colab.
+
+## 🚀 Features
+
+- Mark student attendance
+- View attendance list
+- Simple web interface
+- Public URL using Ngrok (for testing)
+
+## 🛠️ Technologies Used
+
+- Python
+- Flask
+- Pyngrok
+- Google Colab
+
+## ▶️ How to Run in Google Colab
+
+1. Install required packages:
+   pip install flask pyngrok
+
+2. Run the main code.
+
+3. Click the generated Public URL.
+
+## ⚠️ Note
+
+This is a testing version.
+Data will be erased when the Colab session ends.
+
+## 👩‍💻 Developed By
+
+Atchayadharshini 
+B.E Computer Science Engineering  
+NPR College of Engineering and Technology
